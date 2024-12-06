@@ -1,0 +1,7 @@
+
+R
+java:S1854$"7Remove this useless assignment to local variable "emp".(ÎùÓşÿÿÿÿ
+C
+java:S1481$"(Remove this unused "emp" local variable.(ÎùÓşÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(›“õş
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ó„¼¦ÿÿÿÿÿ

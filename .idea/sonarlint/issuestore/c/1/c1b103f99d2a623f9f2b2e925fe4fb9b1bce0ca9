@@ -1,0 +1,13 @@
+
+A
+java:S1481Y"&Remove this unused "s" local variable.(îÀŸ¯ıÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ò–Æñøÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Éå½’
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(Å¥‚©
+[
+java:S1128"ERemove this unused import 'com.sun.org.slf4j.internal.LoggerFactory'.(ÊÆ‹
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+E
+java:S1068f"*Remove this unused "logger" private field.(Ö„¶›ÿÿÿÿÿ
